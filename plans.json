@@ -1,0 +1,32 @@
+{
+  "FiberMax Home": {
+    "plan": "FiberMax Home",
+    "speed": "50 Mbps",
+    "amount": "₦24,083"
+  },
+  "FiberMax LitePlus": {
+    "plan": "FiberMax LitePlus",
+    "speed": "20 Mbps",
+    "amount": "₦17,043"
+  },
+  "FiberMax Home Extra": {
+    "plan": "FiberMax Home Extra",
+    "speed": "75 Mbps",
+    "amount": "₦31,361"
+  },
+  "FiberMax Ultra": {
+    "plan": "FiberMax Ultra",
+    "speed": "100 Mbps",
+    "amount": "₦52,427"
+  },
+  "FiberMax Ultimate+": {
+    "plan": "FiberMax Ultimate+",
+    "speed": "220 Mbps",
+    "amount": "₦92,768"
+  },
+  "FiberMax Ultimate": {
+    "plan": "FiberMax Ultimate",
+    "speed": "145 Mbps",
+    "amount": "₦70,395"
+  }
+}

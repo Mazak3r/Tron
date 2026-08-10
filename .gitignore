@@ -1,0 +1,28 @@
+# Virtual environment
+tron_env/
+venv/
+env/
+
+# Secrets & API keys
+.streamlit/secrets.toml
+~/.minitron_token
+
+# Debug logs
+tron_debug_*.log
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plans (if customized locally)
+# plans.json
