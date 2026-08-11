@@ -98,7 +98,7 @@ Quick Start Scripts
 
 bash setup_tron.sh   # One-time environment setup
 bash run_tron.sh     # Launch TRON
-```
+
 
 ## Project Structure
 
@@ -112,6 +112,9 @@ tron/
 ├── run_tron.sh              # Launch script
 └── .streamlit/
     └── secrets.toml         # OpenAI API key (gitignored)
+
+```
+
 Environment Variables
 
 Variable
