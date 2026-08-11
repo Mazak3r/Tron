@@ -1,4 +1,4 @@
-# ⚡ TRON — AI Fiber Support Agent
+# TRON — AI Fiber Support Agent
 
 TRON is an AI-powered customer support agent for fiber optic ISPs. It connects to the **MINITRON NMS** (Network Management System) to retrieve real-time network data and uses **OpenAI GPT-4** to communicate naturally with customers.
 
@@ -98,7 +98,9 @@ Quick Start Scripts
 
 bash setup_tron.sh   # One-time environment setup
 bash run_tron.sh     # Launch TRON
-Project Structure
+```
+
+## Project Structure
 
 tron/
 ├── tron_app.py              # Streamlit application
